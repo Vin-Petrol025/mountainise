@@ -1,0 +1,11 @@
+.elementor-18953 .elementor-element.elementor-element-b7d601d{margin-top:0px;margin-bottom:0px;padding:20px 20px 20px 20px;overflow:visible;}.elementor-widget-heading .elementor-heading-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );color:var( --e-global-color-primary );}.elementor-18953 .elementor-element.elementor-element-61f9f53 .elementor-heading-title{font-family:"Lato", Sans-serif;font-size:32px;font-weight:700;color:#000000;}#elementor-popup-modal-18953{background-color:rgba(0,0,0,.8);justify-content:center;align-items:center;pointer-events:all;}#elementor-popup-modal-18953 .dialog-message{width:700px;height:auto;padding:0px 0px 0px 0px;}#elementor-popup-modal-18953 .dialog-close-button{display:flex;}#elementor-popup-modal-18953 .dialog-widget-content{box-shadow:2px 8px 23px 3px rgba(0,0,0,0.2);}/* Start custom CSS for section, class: .elementor-element-b7d601d */@media (min-width: 1000px) {
+    
+    .elementor-18953 .elementor-element.elementor-element-b7d601d .wpforms-field-container { display: flex; flex-wrap: wrap; gap: 2%; }
+    
+    .elementor-18953 .elementor-element.elementor-element-b7d601d .wpforms-field-container > div { width: 49%; }
+    
+    .elementor-18953 .elementor-element.elementor-element-b7d601d .wpforms-field-container > div.wpforms-field-radio { width: 100%; }
+
+}
+
+.elementor-18953 .elementor-element.elementor-element-b7d601d div.wpforms-container-full .wpforms-field-file-upload input[type=file] { width: 100%; }/* End custom CSS */

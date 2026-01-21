@@ -1,0 +1,49 @@
+.elementor-27213 .elementor-element.elementor-element-b58811c{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:0px 0px 0px 0px;z-index:1000000000;overflow:visible;}.elementor-27213 .elementor-element.elementor-element-b58811c > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-27213 .elementor-element.elementor-element-273c041 > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-27213 .elementor-element.elementor-element-8876ee3{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:0px 0px 0px 0px;overflow:visible;}.elementor-27213 .elementor-element.elementor-element-8876ee3 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-27213 .elementor-element.elementor-element-e337cc9:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-27213 .elementor-element.elementor-element-e337cc9 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#000000;}.elementor-bc-flex-widget .elementor-27213 .elementor-element.elementor-element-e337cc9.elementor-column .elementor-widget-wrap{align-items:center;}.elementor-27213 .elementor-element.elementor-element-e337cc9.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center;}.elementor-27213 .elementor-element.elementor-element-e337cc9 > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:20px 20px 20px 20px;}.elementor-27213 .elementor-element.elementor-element-e337cc9 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-widget-tabs .elementor-tab-title, .elementor-widget-tabs .elementor-tab-title a{color:var( --e-global-color-primary );}.elementor-widget-tabs .elementor-tab-title.elementor-active,
+					 .elementor-widget-tabs .elementor-tab-title.elementor-active a{color:var( --e-global-color-accent );}.elementor-widget-tabs .elementor-tab-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-tabs .elementor-tab-content{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-27213 .elementor-element.elementor-element-5f1b206 .elementor-tab-title, .elementor-27213 .elementor-element.elementor-element-5f1b206 .elementor-tab-title:before, .elementor-27213 .elementor-element.elementor-element-5f1b206 .elementor-tab-title:after, .elementor-27213 .elementor-element.elementor-element-5f1b206 .elementor-tab-content, .elementor-27213 .elementor-element.elementor-element-5f1b206 .elementor-tabs-content-wrapper{border-width:0px;}.elementor-27213 .elementor-element.elementor-element-5f1b206 .elementor-tab-title, .elementor-27213 .elementor-element.elementor-element-5f1b206 .elementor-tab-title a{color:#FFFFFF;}.elementor-27213 .elementor-element.elementor-element-5f1b206 .elementor-tab-title.elementor-active,
+					 .elementor-27213 .elementor-element.elementor-element-5f1b206 .elementor-tab-title.elementor-active a{color:#44AB64;}.elementor-27213 .elementor-element.elementor-element-5f1b206 .elementor-tab-title{font-family:"Lato", Sans-serif;font-size:20px;font-weight:600;}/* Start custom CSS for tabs, class: .elementor-element-5f1b206 */.elementor-27213 .elementor-element.elementor-element-5f1b206 .elementor-tab-content { padding: 0; }
+
+.elementor-27213 .elementor-element.elementor-element-5f1b206 .elementor-tabs-wrapper { padding-top: 20px; }
+
+.elementor-27213 .elementor-element.elementor-element-5f1b206 .elementor-tab-content > p { padding: 0; margin: 0; }
+
+.elementor-27213 .elementor-element.elementor-element-5f1b206 .elementor-tab-title { padding-left: 0; }
+
+.elementor-27213 .elementor-element.elementor-element-5f1b206 .elementor-tab-title:after { content: "\e876"; font-weight: 900; font-family: elementskit !important; font-size: 12px !important; margin-left: 10px; position: relative; height: auto !important; border: 0; display: inline; }
+
+.elementor-27213 .elementor-element.elementor-element-5f1b206 .elementor-icon-list-items li { padding-bottom: 9px; margin-top: 9px; }
+
+.elementor-27213 .elementor-element.elementor-element-5f1b206 .elementor-icon-list-items li:nth-child(1) { margin-top: 0; }
+
+.elementor-27213 .elementor-element.elementor-element-5f1b206 .elementor-icon-list-items li a { font-family: "Lato", Sans-serif;
+    font-size: 18px;
+    font-weight: 600; }
+    
+.elementor-27213 .elementor-element.elementor-element-5f1b206 .elementor-icon-list-items a .elementor-icon-list-text {
+    color: #FFFFFF;
+    transition: color 0.3s;
+}
+
+.elementor-27213 .elementor-element.elementor-element-5f1b206 .elementor-container > .elementor-column.elementor-col-50 > .elementor-widget-wrap {     border-style: solid;
+    border-width: 0px 0px 0px 2px;
+    border-color: #FFFFFF;
+    padding: 30px 30px 30px 30px; }
+    
+.elementor-27213 .elementor-element.elementor-element-5f1b206 .elementor-widget-heading .elementor-heading-title {     font-family: "Lato", Sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+    color: #FFFFFF; }
+    
+.elementor-27213 .elementor-element.elementor-element-5f1b206 .elementor-post__title a {
+    color: #FFFFFF;
+    font-family: "Lato", Sans-serif;
+    font-size: 21px;
+    font-weight: 600;
+}
+
+.elementor-27213 .elementor-element.elementor-element-5f1b206 .elementor-post__excerpt p {
+    color: #FFFFFF;
+    font-family: "Lato", Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}/* End custom CSS */
+/* Start custom CSS for section, class: .elementor-element-b58811c */.elementor-27213 .elementor-element.elementor-element-b58811c .elementor-icon-list-items a:hover .elementor-icon-list-text { color: #44AB64; }/* End custom CSS */
